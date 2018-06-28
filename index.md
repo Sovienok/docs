@@ -11,7 +11,7 @@
 - Команды
 	- [Список команд][cmd_list]
 - Важно знать
-	- [Система разрешений](Permissions System.md)
+	- [Система разрешений][Permissions]
 
 [img]: https://cdn.discordapp.com/attachments/202743183774318593/210580315381563392/discord.png
 [LoliBot Server]: https://discordapp.com/invite/ThY5TCY
